@@ -22,4 +22,4 @@
 
 ## Автор
 
-[Андрей](Andrey/)
+[Андрей](andrej-01.github.ioAndrey/)
