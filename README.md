@@ -23,4 +23,3 @@
 ## Автор
 
 [Андрей](https://github.com/Andrej-01)
-https://andrej-01.github.io/andrey/
