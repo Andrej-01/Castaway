@@ -22,4 +22,4 @@
 
 ## Автор
 
-[Андрей](andrej-01.github.io/Castaway/)
+[Андрей](andrej-01.github.io/Andrey/)
